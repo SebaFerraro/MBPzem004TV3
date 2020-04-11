@@ -1,0 +1,17 @@
+{
+  "name": "MBPzem004TV3",
+  "keywords": "esp8266, arduino, esp32, pzem004t",
+  "description": "Libreria Arduino para manejar multiples PZEM-004Tv3.0",
+  "authors": {
+    "name": "Sebastian Ferraro",
+    "email": "sebastian.ferraro.cerrutti@gmail.com",
+    "url": "https://github.com/SebaFerraro/MBPzem004TV3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebaFerraro/MBPzem004TV3"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": ["esp8266", "esp32", "avr"]
+}

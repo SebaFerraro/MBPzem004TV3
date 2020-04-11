@@ -1,0 +1,17 @@
+########################
+MBPzem004TV3	KEYWORD1
+
+########################
+readvoltage	KEYWORD2
+readcurrenti	KEYWORD2
+readpower	KEYWORD2
+readenergy	KEYWORD2
+readfrequency	KEYWORD2
+readpowerfactor	KEYWORD2
+readpoweralarm	KEYWORD2
+readpoweralarmthreshold	KEYWORD2
+readaddress	KEYWORD2
+setaddress	KEYWORD2
+setpoweralarmthreshold	KEYWORD2
+resetenergy	KEYWORD2
+    
